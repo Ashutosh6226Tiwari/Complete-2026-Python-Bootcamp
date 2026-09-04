@@ -1,3 +1,6 @@
+# An example of tuple unpacking and checking of higest score and name of student 
+
+
 students = [
     ("Ash", 85),
     ("Rahul", 92),

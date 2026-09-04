@@ -1,3 +1,5 @@
+# finding the number which has higest frequency
+
 numbers = [4, 2, 4, 3, 2, 4, 5, 2, 2]
 freq={}
 for num in numbers :
